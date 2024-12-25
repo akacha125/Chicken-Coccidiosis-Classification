@@ -1,0 +1,7 @@
+tensorflow
+bentoml
+mlflow
+keras-tuner
+python-box
+PyYAML
+-e .
